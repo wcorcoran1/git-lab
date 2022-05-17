@@ -1,0 +1,32 @@
+#app {
+    background-color: red;
+}
+
+.Nav {
+    height:5vmax;
+    background-color: blueviolet;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.main {
+    height:100vmax;
+}
+
+.about {
+    background-color: crimson;
+    border:black 1px solid;
+    height:100vmax;
+}
+
+.projects {
+    background-color: purple;
+    border:black 1px solid;
+    height:100vmax
+}
+.contactMe {
+    background-color: orange;
+    border:black 1px solid;
+    height:100vmax
+}
